@@ -1,5 +1,5 @@
+### Runnning ###
+
 Django powered.
 
-Runnning:
-
-python manage.py runserver
+<pre><code>python manage.py runserver</code></pre>
