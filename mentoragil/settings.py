@@ -84,4 +84,4 @@ USE_TZ = True
 
 STATIC_URL = '/static/'
 
-MAILCHIMP_API_KEY = '3a0e977cf36db4fe9a4c46eb3b9272d4-us10'
+MAILCHIMP_API_KEY = 'secret'
